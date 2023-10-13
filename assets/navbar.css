@@ -1,0 +1,13 @@
+.nav-item {
+    transition: all 0.6s;
+}
+
+.nav-item>a:hover {
+    background-color: rgb(0, 75, 0);
+    color: white;
+}
+
+.active-one {
+    background-color: rgb(0, 75, 0);
+    color: white;
+}
